@@ -39,17 +39,5 @@
 
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/My%20Portfolio-My%20Portfolio-red)](https://derrickchan92.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zychan/)
-
-<br />
-<br />
-
-<!-- ### Active -->
-<!-- ![Aryclenio GitLab Stats](https://github-readme-stats.vercel.app/api?username=Khamphay&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamphay&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamphay&theme=radical&title_color=8E2DE2&text_color=fff) -->
-
-<!-- --- -->
-
