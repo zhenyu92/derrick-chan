@@ -8,6 +8,12 @@
 - 🥅 2023 Goals: Learn more about web3 and blockchain
 - ⚡ Hobbies: I love to listen music and play computer games
 
+### All day of I'm coding be like
+
+<img width="400" src="https://i.redd.it/gfb2a0ptbbv01.gif">
+
+---
+
 ### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -34,3 +40,16 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zychan/)
+
+<br />
+<br />
+
+<!-- ### Active -->
+<!-- ![Aryclenio GitLab Stats](https://github-readme-stats.vercel.app/api?username=Khamphay&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamphay&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamphay&theme=radical&title_color=8E2DE2&text_color=fff) -->
+
+<!-- --- -->
+
