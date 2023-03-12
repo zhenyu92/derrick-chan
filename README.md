@@ -39,5 +39,5 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Derrick's-Portfolio-red?style=for-the-badge&logo=appveyor)](https://derrickchan92.netlify.app/)
+[![portfolio](https://img.shields.io/badge/-Derrick's%20Portfolio-red?style=for-the-badge&logo=appveyor)](https://derrickchan92.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zychan/)
